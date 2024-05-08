@@ -2,6 +2,7 @@
 # Steve Marquez
 
 import os
+# change the directory to the one where this code, graphics.py and the Images folder is located at
 os.chdir("/Users/stevem/Desktop/mini_project/Images")
 from graphics import *
 import math, time
